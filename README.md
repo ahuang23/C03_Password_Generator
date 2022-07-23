@@ -11,4 +11,4 @@
 
 
 ### Link
-[GitHub](https://ahuang23.github.io/C03_Password_Generator/)
+[Password Generator](https://ahuang23.github.io/C03_Password_Generator/)
